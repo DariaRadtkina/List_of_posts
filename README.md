@@ -2,8 +2,8 @@
 
 This is a responsive Vue 3 application that allows users to manage their posts with full CRUD functionality. It demonstrates clean architecture, centralized state management with Pinia, and dynamic form validation. Built with a developer-friendly mindset, this project is ideal for those exploring practical Vue workflows.
 
-🔗 Links
-### [Demo Link]([https://dariaradtkina.github.io/layout_landing-page/](https://dariaradtkina.github.io/List_of_posts/login))
+## 🔗 Links
+### [Demo Link](https://dariaradtkina.github.io/List_of_posts/login)
 ### [API](https://mate-academy.github.io/fe-students-api/)
 
 ## 🔧 Technologies
